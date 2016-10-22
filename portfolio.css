@@ -1,0 +1,52 @@
+/* This is connected to my portfolio_cprice page */
+
+html { 
+	font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+ 	background: url(tall_buildings_2.jpg) no-repeat center center fixed; 
+ 	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+ 	-o-background-size: cover;
+ 	background-size: cover;
+}
+	#wrapper{
+		margin-right: auto;
+		margin-left: auto;
+		width: 700px;
+	}
+		div #main_header{
+			margin-top: 310px;
+			padding-top: 10px;
+			height: 150px;
+			background-color: rgba(255, 255, 255, 0.3);
+			background: rgba(255, 255, 255, 0.3);
+			border-radius: 50px;
+			width: 500px;
+			margin-left: 130px;
+		}
+			#main_header h6, h5{
+					margin-left: 160px;
+					text-align: center;
+			}
+			#main_header h6{
+				margin-top: -60px;
+			}
+			#main_header h5{
+				margin-top: -15px;
+			}
+			#my_name{
+				text-align: center;
+				display: inline-block;
+				width: 300px;
+				vertical-align: middle;
+				margin-top: -10px;
+				font-size: 40px;
+				margin-left: 10px;
+				font-style: italic;
+			}
+			#personal_photo{
+				border-radius: 100px;
+				display: inline-block;
+				text-align: center;
+				vertical-align: middle;
+				margin-left: 30px;
+			}
